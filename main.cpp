@@ -10,4 +10,4 @@ int main()
     return 0;
 }
 
-//g++ -std=c++1y -Wall -o compiled.exe main.cpp
+//g++ -std=c++1y -Wall -o main.exe main.cpp
