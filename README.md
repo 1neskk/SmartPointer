@@ -7,7 +7,7 @@ Officially support Windows and Linux operating systems.
 
 #### Windows
 * Clone the repository to your local machine: `git clone https://github.com/1neskk/SmartPointer && cd SmartPointer`
-* Compile the project: `g++ -std=c++17 main.cpp -o main` ( Assuming that you are using the gcc compiler)
+* Compile the project: `g++ -std=c++17 main.cpp -o main`
 * Run the project: `./main` (or `main.exe` if you are using Command Prompt)
 
 #### Linux
