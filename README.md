@@ -3,7 +3,7 @@
 In this project I have implemented a smart pointer class that can be used to manage memory in C++. This project helped me understand how pointers and smart pointers work and how to manage memory in C++.
 
 ## Get Started
-Officially support Windows and Linux operating systems.
+Officially support Windows and Linux operating systems (I suppose you're using the GNU compiler collection).
 
 #### Windows
 * Clone the repository to your local machine: `git clone https://github.com/1neskk/SmartPointer && cd SmartPointer`
